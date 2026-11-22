@@ -1,199 +1,141 @@
-# POLÍTICA DE PRIVACIDAD
-## Arrow Finish: Puzzle Escape
+# Política de privacidad — Arrow Finish: Puzzle Escape
 
-**Última actualización: 21 de noviembre de 2026**
-
-Esta política explica cómo se recopila, utiliza, conserva y comparte la información de los usuarios de **Arrow Finish: Puzzle Escape**, videojuego para dispositivos Android.
-
-El objetivo es ofrecer transparencia sobre el funcionamiento del juego, la publicidad, las compras integradas previstas y los servicios de terceros.
-
-**Importante:** las funciones publicitarias y las compras descritas como futuras solo se activarán cuando estén implementadas y configuradas. Esta política deberá revisarse antes de publicar una versión que las incorpore.
+**Última actualización: 22 de noviembre de 2026**
 
 ## 1. Responsable del tratamiento
 
-El responsable del tratamiento de los datos personales relacionados con Arrow Finish: Puzzle Escape es:
+El responsable del tratamiento de los datos relacionados con Arrow Finish: Puzzle Escape es:
 
-- **Responsable:** Jose Maria Jimenez Cabrero
+- **Responsable:** José María Jiménez Cabrero
 - **Aplicación:** Arrow Finish: Puzzle Escape
-- **Correo electrónico:** arrowfinishsupport@gmail.com
+- **Localización:** Daimiel, Ciudad Real, España
+- **Correo electrónico de contacto:** arrowfinishsupport@gmail.com
 
-Para cualquier consulta sobre privacidad, protección de datos o ejercicio de derechos, puedes contactar mediante esta dirección.
+Esta política explica qué información puede tratarse al utilizar la aplicación, con qué finalidad y qué opciones tienen los usuarios.
 
-## 2. Funcionamiento del juego y cuentas
+## 2. Sobre la aplicación
 
-Arrow Finish: Puzzle Escape es un videojuego de puzles gratuito.
+Arrow Finish: Puzzle Escape es un videojuego de puzles para dispositivos Android.
 
-No requiere crear una cuenta, registrarse ni iniciar sesión para jugar.
+La aplicación está dirigida a usuarios de todas las edades, incluidos menores de 13 años.
 
-El progreso del juego se almacena localmente en el dispositivo e incluye información como:
+No es necesario crear una cuenta ni registrarse para jugar.
 
-- Niveles desbloqueados.
-- Estrellas obtenidas.
-- Fechas de finalización de niveles.
-- Otros datos técnicos necesarios para conservar el progreso de la partida.
+## 3. Información que trata la aplicación
 
-Estos datos locales no se envían a servidores propios del desarrollador.
+### 3.1. Datos guardados localmente
 
-El progreso puede eliminarse borrando los datos de la aplicación desde los ajustes de Android o desinstalando el juego.
+La aplicación guarda en el dispositivo información necesaria para su funcionamiento, como:
 
-## 3. Publicidad mediante Google AdMob
+- Progreso y niveles completados.
+- Estrellas y mejores resultados.
+- Configuración de sonido y preferencias.
+- Información necesaria para mantener el estado de la partida.
 
-Arrow Finish prevé utilizar **Google AdMob** como plataforma publicitaria.
+Estos datos se almacenan localmente en el dispositivo. El desarrollador no dispone de un sistema propio de cuentas de usuario ni de un servidor de sincronización de partidas.
 
-Los formatos publicitarios previstos incluyen:
+### 3.2. Datos tratados mediante publicidad
 
-- Anuncios intersticiales entre niveles.
-- Anuncios recompensados para obtener vidas adicionales.
-- Anuncios recompensados para conseguir pistas.
-- Banners publicitarios en determinadas pantallas del juego.
+Arrow Finish utiliza Google AdMob para mostrar publicidad.
 
-La disponibilidad y frecuencia de los anuncios dependerán de la configuración publicitaria, la disponibilidad de anuncios y las restricciones aplicables a cada usuario.
+La integración incluye tres formatos:
 
-### 3.1. Información que puede recopilar AdMob
+- **Banners:** en el menú principal y la selección de niveles.
+- **Anuncios intersticiales:** en determinados momentos entre niveles.
+- **Anuncios recompensados:** para obtener pistas o acceder a una continuación cuando el juego ofrece esa posibilidad.
 
-El SDK de Google Mobile Ads puede recopilar automáticamente determinados datos del dispositivo y del uso de la aplicación, entre ellos:
+Al utilizar el SDK de Google Mobile Ads, Google puede recopilar y tratar automáticamente información como:
 
-- Dirección IP, que puede utilizarse para estimar la ubicación general del dispositivo.
-- Identificadores publicitarios y otros identificadores del dispositivo o de la aplicación.
-- Interacciones con el juego y los anuncios, como aperturas, toques y visualizaciones de vídeos.
-- Información técnica y de diagnóstico sobre el funcionamiento de la aplicación y del SDK.
-- Información relacionada con la prevención del fraude publicitario.
+- Dirección IP, que puede utilizarse para estimar la ubicación general.
+- Interacciones con la aplicación y los anuncios.
+- Información de diagnóstico y rendimiento.
+- Identificadores del dispositivo y otros identificadores compatibles con los servicios publicitarios.
+- Información relacionada con la publicidad mostrada.
 
-Estos datos pueden utilizarse para prestar los servicios publicitarios, medir impresiones e interacciones, mantener la seguridad y prevenir actividades fraudulentas.
+El tratamiento concreto puede depender de la configuración del SDK, del dispositivo, de las opciones de consentimiento y de las funciones publicitarias utilizadas.
 
-### 3.2. Publicidad personalizada y no personalizada
+### 3.3. Consentimiento y privacidad
 
-El tratamiento de los datos publicitarios dependerá de la edad del usuario, las opciones de consentimiento y la normativa aplicable.
+La aplicación integra Google User Messaging Platform (UMP) para gestionar las opciones de consentimiento cuando corresponda.
 
-No se utilizará publicidad personalizada para menores cuando esté prohibida.
+En las regiones donde resulte aplicable, los usuarios podrán recibir información sobre el tratamiento de datos y gestionar sus opciones de consentimiento publicitario.
 
-Los usuarios podrán recibir anuncios no personalizados o anuncios con tratamiento limitado cuando corresponda.
+La disponibilidad de publicidad personalizada o no personalizada dependerá de las opciones de consentimiento, la edad declarada y la configuración aplicable.
 
-### 3.3. Proveedor publicitario
+## 4. Protección de menores
 
-Google actúa como proveedor de servicios publicitarios y trata información conforme a sus propias condiciones y políticas.
+Arrow Finish está diseñado para ser utilizado por personas de todas las edades.
+
+La aplicación incorpora una selección de edad con las siguientes opciones:
+
+- Menor de 13 años.
+- Entre 13 y 15 años.
+- Entre 16 y 17 años.
+- 18 años o más.
+- Prefiero no indicarlo.
+
+Cuando el usuario es menor de 16 años o no facilita su edad, la aplicación aplica una configuración de protección infantil.
+
+Entre las medidas previstas se encuentran:
+
+- Solicitudes publicitarias con tratamiento adecuado para menores.
+- Restricciones de publicidad personalizada.
+- Configuración de contenido publicitario apropiado para familias.
+- Aplicación de las opciones de consentimiento correspondientes.
+- Restricciones específicas para los formatos publicitarios según la edad y la configuración del juego.
+
+La aplicación debe cumplir los requisitos aplicables del programa de SDK publicitarios autocertificados para familias de Google Play.
+
+## 5. Servicios de terceros
+
+### Google AdMob
+
+Proveedor de servicios publicitarios. Puede tratar información técnica y publicitaria del dispositivo para mostrar anuncios, medir su rendimiento y prevenir usos fraudulentos.
+
+Política de privacidad:
+
+https://policies.google.com/privacy
+
+### Google User Messaging Platform (UMP)
+
+Servicio utilizado para gestionar los mensajes y las opciones de consentimiento publicitario.
 
 Más información:
 
-https://policies.google.com/privacy
-
-## 4. Consentimiento y privacidad publicitaria
-
-Cuando corresponda, Arrow Finish utilizará la plataforma **Google User Messaging Platform (UMP)** para gestionar las opciones de consentimiento publicitario.
-
-En función de la ubicación del usuario y de los requisitos legales aplicables:
-
-- Se podrá mostrar un formulario de consentimiento.
-- Se informará sobre las opciones disponibles para el tratamiento publicitario.
-- Se respetarán las decisiones del usuario.
-- Se permitirá revisar o modificar las opciones de privacidad cuando corresponda.
-
-La publicidad no se utilizará de forma incompatible con las decisiones de consentimiento del usuario ni con las restricciones aplicables a menores.
-
-## 5. Protección de menores y público infantil
-
-Arrow Finish es un juego de puzles que puede estar dirigido a diferentes grupos de edad.
-
-La aplicación deberá cumplir las políticas de Google Play Families cuando se distribuya a menores.
-
-Para ello, se aplicarán las medidas correspondientes, que podrán incluir:
-
-- Utilización de SDK publicitarios certificados para el programa Families cuando sea obligatorio.
-- Restricciones de publicidad personalizada para menores.
-- Anuncios adecuados para la edad del usuario.
-- Pantalla neutral de selección de edad cuando sea necesaria para una aplicación de público mixto.
-- Restricciones adicionales sobre formatos y contenido publicitario.
-- Cumplimiento de la normativa de protección de datos de menores.
-
-La publicidad dirigida a menores y usuarios de edad desconocida se configurará de acuerdo con los requisitos aplicables.
-
-## 6. Compras integradas mediante Google Play Billing
-
-Está prevista la incorporación de compras integradas para adquirir paquetes de vidas adicionales.
-
-Cuando esta función esté disponible, se utilizará **Google Play Billing** para procesar las transacciones.
-
-El desarrollador no pretende recopilar ni almacenar directamente números de tarjetas bancarias ni credenciales de pago.
-
-Los pagos se gestionarán mediante Google Play, conforme a sus condiciones y políticas de privacidad.
-
-Google podrá tratar información relacionada con la cuenta de Google Play, las transacciones y el historial de compras para procesar los pagos, prevenir el fraude y proporcionar el servicio.
-
-La disponibilidad de las compras estará sujeta a las condiciones de Google Play y a las restricciones de edad aplicables.
-
-Información sobre privacidad de Google:
-
-https://policies.google.com/privacy
-
-## 7. Datos compartidos con terceros
-
-Los datos podrán ser tratados por proveedores externos cuando resulte necesario para prestar las funciones de la aplicación.
-
-Los proveedores previstos son:
-
-**Google AdMob**
-
-Prestación de publicidad, medición de anuncios y prevención del fraude publicitario.
-
-https://policies.google.com/privacy
-
-**Google User Messaging Platform (UMP)**
-
-Gestión de las opciones de consentimiento y privacidad publicitaria.
-
 https://developers.google.com/admob/android/privacy
 
-**Google Play Billing**
+## 6. Compartición de información
 
-Procesamiento de las compras integradas cuando esta funcionalidad esté disponible.
+El desarrollador no vende directamente datos personales de los usuarios.
 
-https://policies.google.com/privacy
+Los proveedores tecnológicos y publicitarios pueden recibir y tratar información necesaria para prestar sus servicios, conforme a sus propias políticas y a la configuración de privacidad aplicable.
 
-**Google Play**
+## 7. Conservación de los datos
 
-Distribución de la aplicación y gestión de servicios relacionados con su instalación y compras.
+El progreso y las preferencias del juego se conservan localmente en el dispositivo hasta que el usuario los elimina, desinstala la aplicación o borra sus datos.
 
-Cada proveedor tratará los datos conforme a sus propias condiciones y responsabilidades legales.
+La información tratada por Google mediante sus servicios publicitarios se conserva conforme a las políticas y plazos establecidos por Google.
 
-## 8. Seguridad y cifrado
+El desarrollador no mantiene una base de datos propia con perfiles personales de jugadores.
 
-Se adoptarán medidas técnicas y organizativas razonables para proteger la información tratada por la aplicación.
+## 8. Seguridad
 
-Los servicios de Google Mobile Ads utilizan cifrado TLS para los datos que transmiten a sus servidores.
+La aplicación utiliza los mecanismos de seguridad proporcionados por Android y por los proveedores tecnológicos integrados.
 
-El desarrollador no mantiene una base de datos propia de cuentas de usuarios ni almacena directamente datos bancarios.
+La información transmitida por los servicios de Google Mobile Ads está sujeta a las medidas de seguridad y cifrado en tránsito proporcionadas por dichos servicios.
 
-## 9. Conservación de los datos
+## 9. Derechos de los usuarios
 
-Los datos de progreso se conservan localmente en el dispositivo hasta que el usuario elimina los datos de la aplicación o la desinstala.
+De acuerdo con la normativa aplicable en materia de protección de datos, los usuarios pueden ejercer los derechos que les correspondan, incluidos:
 
-Los datos tratados por proveedores externos se conservarán durante los periodos establecidos por dichos proveedores, sus políticas de conservación y las obligaciones legales aplicables.
-
-Las comunicaciones enviadas al correo de soporte se conservarán durante el tiempo necesario para atender la consulta y cumplir las obligaciones legales correspondientes.
-
-## 10. Transferencias internacionales
-
-Algunos proveedores tecnológicos pueden tratar información en servidores situados fuera del Espacio Económico Europeo.
-
-Cuando se produzcan transferencias internacionales de datos personales, estas deberán realizarse conforme a la normativa aplicable y contar con las garantías adecuadas, como decisiones de adecuación o cláusulas contractuales tipo cuando correspondan.
-
-Para obtener más información sobre el tratamiento efectuado por Google:
-
-https://policies.google.com/privacy
-
-## 11. Derechos de los usuarios
-
-De acuerdo con el Reglamento General de Protección de Datos (RGPD) y la normativa aplicable, los usuarios pueden ejercer los derechos que les correspondan, entre ellos:
-
-- Acceso a sus datos personales.
-- Rectificación de datos inexactos.
-- Supresión de datos cuando proceda.
+- Acceso.
+- Rectificación.
+- Supresión.
 - Limitación del tratamiento.
-- Oposición al tratamiento.
-- Portabilidad cuando sea aplicable.
-- Retirada del consentimiento cuando el tratamiento se base en él.
+- Oposición.
+- Retirada del consentimiento cuando corresponda.
 
-Para ejercer estos derechos, puedes enviar una solicitud a:
+Para ejercer estos derechos o realizar consultas sobre privacidad, puedes escribir a:
 
 **arrowfinishsupport@gmail.com**
 
@@ -201,51 +143,24 @@ También puedes presentar una reclamación ante la Agencia Española de Protecci
 
 https://www.aepd.es/
 
-## 12. Solicitud de eliminación de datos
+## 10. Cambios en esta política
 
-Los usuarios pueden solicitar la eliminación de los datos personales que el desarrollador conserve mediante el siguiente procedimiento:
+Esta política puede actualizarse para reflejar cambios en la aplicación, sus funcionalidades, los servicios publicitarios o las obligaciones legales.
 
-1. Enviar un correo a arrowfinishsupport@gmail.com.
-2. Utilizar como asunto: «Solicitud de eliminación de datos – Arrow Finish».
-3. Describir la solicitud sin incluir contraseñas ni información sensible innecesaria.
+La versión vigente estará disponible en:
 
-### Datos que pueden eliminarse
+https://josemaripresent.github.io/arrowfinish-privacy/
 
-- Información personal incluida en comunicaciones de soporte.
-- Datos personales que el desarrollador conserve y cuya eliminación sea legalmente procedente.
-
-### Datos almacenados localmente
-
-El progreso de las partidas se almacena en el dispositivo del usuario. Puede eliminarse borrando los datos de Arrow Finish desde los ajustes de Android o desinstalando la aplicación.
-
-### Datos tratados por proveedores externos
-
-Los datos publicitarios y de compras tratados por Google u otros proveedores se gestionan conforme a sus propios mecanismos, condiciones y políticas de privacidad.
-
-El desarrollador no puede eliminar directamente los datos que estén bajo el control exclusivo de esos proveedores.
-
-### Periodos de conservación
-
-Las solicitudes se atenderán en los plazos previstos por la normativa aplicable. Los datos que deban conservarse por obligación legal podrán mantenerse durante el periodo exigido por dicha obligación.
-
-## 13. Cambios en esta política
-
-Esta política podrá modificarse para reflejar:
-
-- Nuevas funcionalidades.
-- Incorporación de servicios publicitarios.
-- Nuevos sistemas de compras integradas.
-- Cambios en los proveedores tecnológicos.
-- Modificaciones de la legislación aplicable.
-
-La versión actualizada estará disponible en esta misma dirección web.
-
-## 14. Contacto
+## 11. Contacto
 
 Para cualquier consulta relacionada con Arrow Finish: Puzzle Escape o con esta política de privacidad:
 
-**Responsable:** Jose Maria Jimenez Cabrero
+**José María Jiménez Cabrero**
+
+**Daimiel, Ciudad Real, España**
 
 **Correo electrónico:** arrowfinishsupport@gmail.com
 
-**Aplicación:** Arrow Finish: Puzzle Escape
+---
+
+© 2026 Arrow Finish: Puzzle Escape.
